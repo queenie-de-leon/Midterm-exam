@@ -108,7 +108,7 @@ The **dashboard** shows quick summary cards and tables that help users monitor i
 > Save your images in a `screenshots/` folder inside your project, then link them below.  
 > Example: `![alt text](screenshots/filename.png)`
 
-![Dashboard Overview](screenshots/dashboard.png)  
+![Dashboard Overview](Screenshot 2025-10-26 093053.png)  
 *Dashboard displaying total inventory value, categories, and stock overview.*
 
 ![Products Panel](screenshots/products-panel.png)  
