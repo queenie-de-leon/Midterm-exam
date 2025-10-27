@@ -51,7 +51,8 @@ The **dashboard** shows quick summary cards and tables that help users monitor i
 ## 🧩 Installation Instructions (Beginner-Friendly)  
 
 ### Prerequisites  
-- **XAMPP** (with Apache and MySQL running)  
+- **XAMPP** (with Apache and MySQL running)
+- **Visual Studio Code** (VS Code)  
 - **Composer**  
 - **PHP** (version compatible with your Laravel version)  
 - **Node.js** and **npm** *(optional, for frontend assets)*  
