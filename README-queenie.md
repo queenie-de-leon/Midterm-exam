@@ -72,9 +72,8 @@ The **dashboard** shows quick summary cards and tables that help users monitor i
 - **9. Open your browser → http://127.0.0.1:8000
  🎉**
 
- 
-
 ---
+
 ## 📘 Usage — Quick Guide
 
 - **Dashboard:**  
@@ -108,13 +107,13 @@ The **dashboard** shows quick summary cards and tables that help users monitor i
 > Save your images in a `screenshots/` folder inside your project, then link them below.  
 > Example: `![alt text](screenshots/filename.png)`
 
-![Dashboard Overview](Screenshot 2025-10-26 093053.png)  
+![Dashboard Overview](Screenshots/Dashboard.png)  
 *Dashboard displaying total inventory value, categories, and stock overview.*
 
-![Products Panel](screenshots/products-panel.png)  
+![Products Panel](screenshots/products.png)  
 *Add, view, edit, or delete products.*
 
-![Categories Panel](screenshots/categories-panel.png)  
+![Categories Panel](screenshots/categories.png)  
 *Add, view, edit, or delete product categories with descriptions.* 
 
 ![Transactions Panel](screenshots/transactions.png)  
@@ -127,8 +126,8 @@ The **dashboard** shows quick summary cards and tables that help users monitor i
 
 ## 👩‍💻 Contributors
 
-- **Queenie De Leon** — Developer 
-- **Thea Emerald Sangayab** — Collaborator
+- **Queenie A. De Leon** — Developer 
+- **Thea Emerald A. Sangayab** — Collaborator
 
 ---
 
@@ -137,11 +136,4 @@ The **dashboard** shows quick summary cards and tables that help users monitor i
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this software with attribution to the original author.
 
----
-
-### ⚙️ Steps to Set Up  
-1. Clone or download the project folder.  
-   ```bash
-   git clone https://github.com/queenie-de-leon/Midterm-exam.git
-   cd Midterm-exam
 
