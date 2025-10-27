@@ -50,14 +50,31 @@ The **dashboard** shows quick summary cards and tables that help users monitor i
 
 ## 🧩 Installation Instructions (Beginner-Friendly)  
 
-### Prerequisites  
-- **XAMPP** (with Apache and MySQL running)
-- **Visual Studio Code** (VS Code)  
-- **Composer**  
-- **PHP** (version compatible with your Laravel version)  
-- **Node.js** and **npm** *(optional, for frontend assets)*  
+### Follow these simple steps to set up and run the project locally:
+- **1. Start XAMPP →** Run Apache and MySQL.
+- **2. Create Database →** Go to phpMyAdmin
+ and make a new database. 
+- **3. Open in VS Code →** Open your Laravel project folder. 
+- **4. Install Dependencies:**
+    - composer install
+    - npm install
+- **5. Set Up Environment File:**
+    - cp .env.example .env
+    - php artisan key:generate
+- **6. Edit .env Database Settings:**
+    - DB_DATABASE=inventory_db
+    - DB_USERNAME=root
+    - DB_PASSWORD=
+- **7. Run Migrations (if needed):**
+    - php artisan migrate
+- **8. Start the Server:**
+    - php artisan serve
+- **9. Open your browser → http://127.0.0.1:8000
+ 🎉**
 
+ 
 
+---
 ## 📘 Usage — Quick Guide
 
 - **Dashboard:**  
@@ -96,6 +113,9 @@ The **dashboard** shows quick summary cards and tables that help users monitor i
 
 ![Products Panel](screenshots/products-panel.png)  
 *Add, view, edit, or delete products.*
+
+![Categories Panel](screenshots/categories-panel.png)  
+*Add, view, edit, or delete product categories with descriptions.* 
 
 ![Transactions Panel](screenshots/transactions.png)  
 *Record stock in/out transactions.*
