@@ -110,16 +110,16 @@ The **dashboard** shows quick summary cards and tables that help users monitor i
 ![Dashboard Overview](https://github.com/queenie-de-leon/Midterm-exam/blob/main/screenshots/Dashboard.png)
 *Dashboard displaying total inventory value, categories, and stock overview.*
 
-![Products Panel](screenshots/products.png)  
+![Products Panel](https://github.com/queenie-de-leon/Midterm-exam/blob/main/screenshots/Products.png)
 *Add, view, edit, or delete products.*
 
-![Categories Panel](screenshots/categories.png)  
+![Categories Panel](https://github.com/queenie-de-leon/Midterm-exam/blob/main/screenshots/Categories.png)  
 *Add, view, edit, or delete product categories with descriptions.* 
 
-![Transactions Panel](screenshots/transactions.png)  
+![Transactions Panel](https://github.com/queenie-de-leon/Midterm-exam/blob/main/screenshots/Transactions.png)  
 *Record stock in/out transactions.*
 
-![Reports Section](screenshots/reports.png)  
+![Reports Section](https://github.com/queenie-de-leon/Midterm-exam/blob/main/screenshots/Reports.png)  
 *Reports showing low stock, recent transactions, and category summaries.*
 
 ---
