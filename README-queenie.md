@@ -107,23 +107,23 @@ The **dashboard** shows quick summary cards and tables that help users monitor i
 > Save your images in a `screenshots/` folder inside your project, then link them below.  
 > Example: `![alt text](screenshots/filename.png)`
 
-##DASHBOARD
+## DASHBOARD
 ![Dashboard Overview](https://github.com/queenie-de-leon/Midterm-exam/blob/main/screenshots/Dashboard.png)
 *Dashboard displaying total inventory value, categories, and stock overview.*
 
-##PRODUCTS
+## PRODUCTS
 ![Products Panel](https://github.com/queenie-de-leon/Midterm-exam/blob/main/screenshots/Products.png)
 *Add, view, edit, or delete products.*
 
-##CATEGORIES
+## CATEGORIES
 ![Categories Panel](https://github.com/queenie-de-leon/Midterm-exam/blob/main/screenshots/Categories.png)  
 *Add, view, edit, or delete product categories with descriptions.* 
 
-##TRANSACTIONS
+## TRANSACTIONS
 ![Transactions Panel](https://github.com/queenie-de-leon/Midterm-exam/blob/main/screenshots/Transactions.png)  
 *Record stock in/out transactions.*
 
-##REPORTS
+## REPORTS
 ![Reports Section](https://github.com/queenie-de-leon/Midterm-exam/blob/main/screenshots/Reports.png)  
 *Reports showing low stock, recent transactions, and category summaries.*
 
